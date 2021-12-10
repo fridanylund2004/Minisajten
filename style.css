@@ -1,0 +1,45 @@
+menu {
+  position: fixed;
+  position: -webkit-sticky;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(185, 233, 217);
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(7, 5, 5);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(252, 252, 252);
+}
+
+.bild {
+  width: 30%;
+}
+
+.bild2 {
+  width: 100%;
+}
+
+.hej {
+  position: relative;
+}
+
+title {
+  position: absolute;
+}
